@@ -1,0 +1,135 @@
+2024-05-25 20:24:22,870 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-25 20:24:22,890 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-25 20:24:24,264 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-25 20:24:24,636 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-25 20:24:40,309 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-25 20:24:40,311 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-25 20:24:41,692 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-25 20:24:42,065 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-25 20:24:58,209 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-25 20:24:58,283 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-25 20:24:59,578 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-25 20:24:59,817 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-25 20:25:04,548 - nopCommerece_Cucumber -INFO - ****Portal Logout****
+2024-05-25 20:25:09,886 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-25 20:25:09,886 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-25 20:25:11,196 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-25 20:25:11,518 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-25 20:25:16,210 - nopCommerece_Cucumber -INFO - ****Portal Logout****
+2024-05-25 20:25:21,601 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-25 20:25:21,601 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-25 20:25:22,180 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-25 20:25:22,535 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-25 20:25:26,038 - nopCommerece_Cucumber -INFO - ****Closing browser****
+2024-05-27 18:55:14,061 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 18:55:14,093 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 18:55:15,420 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 18:55:15,718 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 18:55:25,216 - nopCommerece_Cucumber -INFO - ****Opening Customer Menu****
+2024-05-27 18:55:27,321 - nopCommerece_Cucumber -INFO - ****Opening Customer Sub Menu****
+2024-05-27 18:55:27,989 - nopCommerece_Cucumber -INFO - ****Clicking on new button****
+2024-05-27 18:55:29,020 - nopCommerece_Cucumber -INFO - ****Add new customer page ****
+2024-05-27 18:55:30,231 - nopCommerece_Cucumber -INFO - ****Save button for saving the new user****
+2024-05-27 18:55:32,373 - nopCommerece_Cucumber -INFO - ****Quitting browser****
+2024-05-27 18:55:33,338 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 18:55:33,400 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 18:55:34,891 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 18:55:35,238 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 18:55:43,923 - nopCommerece_Cucumber -INFO - ****Opening Customer Menu****
+2024-05-27 18:55:46,000 - nopCommerece_Cucumber -INFO - ****Opening Customer Sub Menu****
+2024-05-27 18:55:46,651 - nopCommerece_Cucumber -INFO - ****Entering Customer Email****
+2024-05-27 18:55:47,299 - nopCommerece_Cucumber -INFO - ****Clicking on search button****
+2024-05-27 18:55:50,425 - nopCommerece_Cucumber -INFO - ****Checking of email on search table****
+2024-05-27 18:55:50,609 - nopCommerece_Cucumber -INFO - ****Quitting browser****
+2024-05-27 18:55:51,640 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 18:55:51,650 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 18:55:53,095 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 18:55:53,480 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 18:55:58,203 - nopCommerece_Cucumber -INFO - ****Portal Logout****
+2024-05-27 18:56:02,605 - nopCommerece_Cucumber -INFO - ****Quitting browser****
+2024-05-27 18:56:03,588 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 18:56:03,589 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 18:56:04,946 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 18:56:05,235 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 18:56:09,955 - nopCommerece_Cucumber -INFO - ****Portal Logout****
+2024-05-27 18:56:14,472 - nopCommerece_Cucumber -INFO - ****Quitting browser****
+2024-05-27 18:56:15,394 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 18:56:15,399 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 18:56:16,680 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 18:56:16,976 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 18:56:20,402 - nopCommerece_Cucumber -INFO - ****Closing browser****
+2024-05-27 19:09:03,537 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 19:09:03,569 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 19:09:05,016 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 19:09:05,363 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 19:09:14,081 - nopCommerece_Cucumber -INFO - ****Opening Customer Menu****
+2024-05-27 19:09:16,169 - nopCommerece_Cucumber -INFO - ****Opening Customer Sub Menu****
+2024-05-27 19:09:16,784 - nopCommerece_Cucumber -INFO - ****Clicking on new button****
+2024-05-27 19:09:17,773 - nopCommerece_Cucumber -INFO - ****Add new customer page ****
+2024-05-27 19:09:18,882 - nopCommerece_Cucumber -INFO - ****Save button for saving the new user****
+2024-05-27 19:09:20,423 - nopCommerece_Cucumber -INFO - ****Quitting browser****
+2024-05-27 19:09:21,412 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 19:09:21,412 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 19:09:22,904 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 19:09:23,251 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 19:09:31,948 - nopCommerece_Cucumber -INFO - ****Opening Customer Menu****
+2024-05-27 19:09:34,027 - nopCommerece_Cucumber -INFO - ****Opening Customer Sub Menu****
+2024-05-27 19:09:34,748 - nopCommerece_Cucumber -INFO - ****Entering Customer Email****
+2024-05-27 19:09:35,537 - nopCommerece_Cucumber -INFO - ****Clicking on search button****
+2024-05-27 19:09:38,650 - nopCommerece_Cucumber -INFO - ****Checking of email on search table****
+2024-05-27 19:09:38,749 - nopCommerece_Cucumber -INFO - ****Quitting browser****
+2024-05-27 19:09:39,785 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 19:09:39,789 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 19:09:41,306 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 19:09:41,688 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 19:09:46,395 - nopCommerece_Cucumber -INFO - ****Portal Logout****
+2024-05-27 19:09:50,928 - nopCommerece_Cucumber -INFO - ****Quitting browser****
+2024-05-27 19:09:51,834 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 19:09:51,834 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 19:09:53,449 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 19:09:53,855 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 19:09:58,707 - nopCommerece_Cucumber -INFO - ****Portal Logout****
+2024-05-27 19:10:03,185 - nopCommerece_Cucumber -INFO - ****Quitting browser****
+2024-05-27 19:10:04,117 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 19:10:04,128 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 19:10:06,149 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 19:10:06,520 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 19:10:09,986 - nopCommerece_Cucumber -INFO - ****Closing browser****
+2024-05-27 19:10:10,146 - nopCommerece_Cucumber -INFO - ****Portal Logout****
+2024-05-27 19:47:07,683 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 19:47:07,704 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 19:47:09,159 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 19:47:09,439 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 19:47:18,046 - nopCommerece_Cucumber -INFO - ****Opening Customer Menu****
+2024-05-27 19:47:20,124 - nopCommerece_Cucumber -INFO - ****Opening Customer Sub Menu****
+2024-05-27 19:47:20,793 - nopCommerece_Cucumber -INFO - ****Clicking on new button****
+2024-05-27 19:47:21,658 - nopCommerece_Cucumber -INFO - ****Add new customer page ****
+2024-05-27 19:47:22,431 - nopCommerece_Cucumber -INFO - ****Save button for saving the new user****
+2024-05-27 19:47:23,823 - nopCommerece_Cucumber -INFO - ****Quitting browser****
+2024-05-27 19:47:24,758 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 19:47:24,761 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 19:47:26,180 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 19:47:26,450 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 19:47:35,510 - nopCommerece_Cucumber -INFO - ****Opening Customer Menu****
+2024-05-27 19:47:37,626 - nopCommerece_Cucumber -INFO - ****Opening Customer Sub Menu****
+2024-05-27 19:47:38,301 - nopCommerece_Cucumber -INFO - ****Entering Customer Email****
+2024-05-27 19:47:39,086 - nopCommerece_Cucumber -INFO - ****Clicking on search button****
+2024-05-27 19:47:42,203 - nopCommerece_Cucumber -INFO - ****Checking of email on search table****
+2024-05-27 19:47:42,313 - nopCommerece_Cucumber -INFO - ****Quitting browser****
+2024-05-27 19:47:43,227 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 19:47:43,227 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 19:47:43,786 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 19:47:44,136 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 19:47:48,849 - nopCommerece_Cucumber -INFO - ****Portal Logout****
+2024-05-27 19:47:53,362 - nopCommerece_Cucumber -INFO - ****Quitting browser****
+2024-05-27 19:47:54,508 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 19:47:54,508 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 19:47:55,844 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 19:47:56,168 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 19:48:00,961 - nopCommerece_Cucumber -INFO - ****Portal Logout****
+2024-05-27 19:48:05,383 - nopCommerece_Cucumber -INFO - ****Quitting browser****
+2024-05-27 19:48:06,265 - nopCommerece_Cucumber -INFO - ****Launching browser****
+2024-05-27 19:48:06,269 - nopCommerece_Cucumber -INFO - ****Opening URL****
+2024-05-27 19:48:07,752 - nopCommerece_Cucumber -INFO - ****Providing login details****
+2024-05-27 19:48:08,061 - nopCommerece_Cucumber -INFO - ****Started Login****
+2024-05-27 19:48:11,523 - nopCommerece_Cucumber -INFO - ****Closing browser****
